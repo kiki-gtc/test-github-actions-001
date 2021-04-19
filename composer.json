@@ -1,0 +1,11 @@
+{
+    "name": "kk-github/test-001",
+    "description": "Testiranje GitHub Actions CI susatava",
+    "license": "MIT",
+    "require": {
+        "php" : ">=7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "^9"
+    }
+}
